@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    text-align: center;
+    line-height:30px;
+}
+.item{
+    margin-top: 50px;
+}
+.paragraph{
+    padding-right: 20px;
+}
+.paragraph1{
+    padding-right: 30px;
+}
+.paragraph2{
+    padding-right: 25px;
+}
+button{
+    width: 180px;
+    height: 25px;
+    border: 2px solid black;
+}
